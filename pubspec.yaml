@@ -1,8 +1,8 @@
 name: column12
 description: A Flutter package for creating responsive widget
 version: 0.0.1
-author:
-homepage:
+author: Bharathraj E<ebraj1996@gmail.com>
+homepage: https://github.com/bharathraj-e/column12.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
