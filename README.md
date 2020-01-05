@@ -119,16 +119,15 @@ ColChild() works only as direct child of Col12() widget
 
 ## Nesting Col12 
 
-Placing a Col12 widget into a Col12.
+Placing a Col12() widget into a Col12().
 
-The child Col12 widget takes a width provided by Parent Col12 widget and **not the screen width**
-
+The child Col12() widget takes a width provided by Parent Col12() widget and **not the screen width**
 
 ## Complete Example
 
-<img src="pics/portrait.png" width="50%">
+<img src="https://raw.githubusercontent.com/bharathraj-e/column12/master/pics/portrait.png" width="50%">
 
-<img src="pics/landscape.png" width="75%">
+<img src="https://raw.githubusercontent.com/bharathraj-e/column12/master/pics/landscape.png" width="75%">
 
 ```dart
 class FullExample extends StatelessWidget {
