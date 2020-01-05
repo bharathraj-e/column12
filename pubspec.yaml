@@ -1,7 +1,6 @@
 name: column12
-description: A Flutter package for creating responsive widget
-version: 0.0.1
-author: Bharathraj E<ebraj1996@gmail.com>
+description: Column12 Flutter package helps you to create a responsive and Nested responsive widget. Works on all flutter platform (android, iOs ,web) with both portrait and landscape mode.
+version: 0.0.2
 homepage: https://github.com/bharathraj-e/column12.git
 
 environment:

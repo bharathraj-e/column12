@@ -1,6 +1,6 @@
 # column12 [Responsive Widget]
 
-Column12 Flutter package helps you to create a responsive widget and Nested responsive widget too. Works on all flutter platform (android, iOs ,**web** ) with both portrait and vertical mode.
+Column12 Flutter package helps you to create a responsive widget and Nested responsive widget too. Works on all flutter platform (android, iOs ,**web** ) with both portrait and LandScape mode.
 
 ## Getting Started
 
@@ -126,9 +126,9 @@ The child Col12 widget takes a width provided by Parent Col12 widget and **not t
 
 ## Complete Example
 
-<img src="docs/portrait.png" width="50%">
+<img src="pics/portrait.png" width="50%">
 
-<img src="docs/landscape.png" width="75%">
+<img src="pics/landscape.png" width="75%">
 
 ```dart
 class FullExample extends StatelessWidget {

@@ -1,5 +1,7 @@
 name: example
 description: An Example Flutter application fro responsive column12 widget
+author: Bharathraj E<ebraj1996@gmail.com>
+homepage: https://github.com/bharathraj-e/column12.git
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
