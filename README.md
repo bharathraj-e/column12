@@ -126,10 +126,9 @@ The child Col12 widget takes a width provided by Parent Col12 widget and **not t
 
 ## Complete Example
 
+<img src="docs/portrait.png" width="50%">
 
-![portrait view](docs/portrait.png "portrait view")
-
-![landscape view](docs/landscape.png "landscape view")
+<img src="docs/landscape.png" width="75%">
 
 ```dart
 class FullExample extends StatelessWidget {
