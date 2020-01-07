@@ -1,7 +1,7 @@
 # column12 [Responsive Widget]
 
 **Moved to** 
-[responsive_ui](https://pub.dev/packages/responsive_ui)
+[responsive_ui](https://github.com/bharathraj-e/responsive_ui/)
 
 Column12 Flutter package helps you to create a responsive widget and Nested responsive widget too. Works on all flutter platform (android, iOs ,**web** ) with both portrait and LandScape mode.
 
